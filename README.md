@@ -1,3 +1,3 @@
--- Get Offset by Class and Method Name 
--- Support x32 and x64 bit Architecture 
--- Support Any Unity Game
+Get Offset by Class and Method Name
+Support x32 and x64 bit Architecture 
+Support Any Unity Game
